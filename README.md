@@ -1,6 +1,4 @@
 # React_App_USESTATE
 ```
-
-
-<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/f1fbda85-7ffa-4d80-848a-55f71ad7315c" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/9398ed5d-6de7-45be-870a-eddfd0c34625" />
 
